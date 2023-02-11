@@ -326,12 +326,12 @@
 
 .footer {
   margin-top: 6rem;
-  background-image: url("resources/assets/images/bgImg.svg");
+  background-image: url("src/assets/images/bgImg.svg");
   background-size: cover;
 }
 @media all and (min-width: 641px) {
   .footer {
-    background-image: url("resources/assets/images/bgImgBig.svg");
+    background-image: url("src/assets/images/bgImgBig.svg");
   }
 }
 .footer__container1 {
