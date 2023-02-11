@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-width: 320px;
+
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.btn__scroll_up {
+  box-sizing: content-box;
+  position: fixed;
+  right: 1rem;
+  bottom: 10%;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: variables.$white no-repeat;
+  border: 2px solid variables.$primary;
+  transition: 200ms;
+  z-index: 1;
+}
+
+.btn__scroll_up__icon {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  fill: variables.$primary;
+  stroke: variables.$primary;
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.btn__scroll_up:hover {
+  background-color: variables.$primary;
+}
+
+.btn__scroll_up:hover .btn__scroll_up__icon {
+  fill: variables.$white;
+  stroke: variables.$white;
+}
+
