@@ -1,2 +1,3 @@
-🏨# Hotel-Miranda-WebPage
-  http://hotel-miranda.site
+### Hotel-Miranda-WebPage 🏨
+<br/>
+Web-Site: http://hotel-miranda.site
