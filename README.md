@@ -1,8 +1,8 @@
-### Hotel-Miranda-WebPage 🏨
+### 🏨 Hotel-Miranda-WebPage 🏨
 <br/>
 💻 Web-Site: 
 <br/>
 <br/>
-http://hotel-miranda.site  🚀
+🚀 http://hotel-miranda.site  🚀
 
 
