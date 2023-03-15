@@ -3,6 +3,6 @@
 💻 Web-Site: 
 <br/>
 <br/>
-🚀🚀 http://hotel-miranda.site 🚀🚀
+🚀 http://hotel-miranda.site 🚀
 
 
