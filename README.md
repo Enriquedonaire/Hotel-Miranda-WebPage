@@ -1,11 +1,11 @@
 ### 🏨 Hotel-Miranda-WebPage 🏨
 <br/>
-### Tecnologies: 
+Tecnologies: 
 <br/>
-- ReactJS
-- Styled-Components
-- Figma
-- SwiperJS
+- ReactJS <br/>
+- Styled-Components <br/>
+- Figma <br/>
+- SwiperJS <br/>
 
 💻 Web-Site: 
 <br/>
