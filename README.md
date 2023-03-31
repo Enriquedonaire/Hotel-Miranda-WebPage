@@ -5,7 +5,9 @@ Tecnologies:
 - ReactJS <br/>
 - Styled-Components <br/>
 - Figma <br/>
+- Adobe XD <br/>
 - SwiperJS <br/>
+
 
 💻 Web-Site: 
 <br/>
