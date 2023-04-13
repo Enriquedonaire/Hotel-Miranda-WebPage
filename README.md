@@ -3,6 +3,7 @@
 Tecnologies: 
 <br/>
 - ReactJS <br/>
+- JavaScript <br/>
 - SCSS <br/>
 - Styled-Components <br/>
 - Figma <br/>
