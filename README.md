@@ -1,6 +1,8 @@
 ### 🏨 Hotel-Miranda-WebPage 🏨
 <br/>
-Tecnologies: 
+
+
+### Tecnologies: 
 <br/>
 - ReactJS <br/>
 - JavaScript <br/>
@@ -14,7 +16,7 @@ Tecnologies:
 <br/>
 <br/>
 
-💻 Web-Site: 
+# 💻 Web-Site: 
 <br/>
 <br/>
 🚀 http://hotel-miranda.site 🚀
