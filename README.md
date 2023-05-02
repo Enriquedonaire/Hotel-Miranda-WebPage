@@ -15,7 +15,6 @@
 
 # 💻 Web-Site: 
 <br/>
-<br/>
 🚀 http://hotel-miranda.site 🚀
 
 
