@@ -1,6 +1,4 @@
 ### 🏨 Hotel-Miranda-WebPage 🏨
-<br/>
-
 
 ### Tecnologies: 
 <br/>
@@ -13,7 +11,6 @@
 - Figma <br/>
 - Adobe XD <br/>
 - SwiperJS <br/>
-<br/>
 <br/>
 
 # 💻 Web-Site: 
