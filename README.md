@@ -1,4 +1,4 @@
-### 🏩 Hotel-Miranda-WebPage
+### 🏨 Hotel-Miranda-WebPage
 
 ### Tecnologies: 
 <br/>
@@ -14,7 +14,7 @@
 <br/>
 
 # 💻 Web-Site: 
-<br/>
-🛎️ http://hotel-miranda.site 🏨
+
+# 🛎️ http://hotel-miranda.site 🛎️
 
 
