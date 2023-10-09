@@ -13,8 +13,8 @@
 - SwiperJS <br/>
 <br/>
 
-# 💻 Web-Site: 
+# 💻 Web-Site 🛎️: 
 
-# http://hotel-miranda.site  🛎️ 
+# http://hotel-miranda.site   
 
                                                                                                                                         
