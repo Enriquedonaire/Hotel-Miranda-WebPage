@@ -1,4 +1,4 @@
-#  🏨  Hotel-Miranda-WebPage 
+#  🏨  Hotel-Miranda-WebPage 🛎️
 
 ###  Tecnologies 🛠️: 
 <br/>
@@ -11,10 +11,11 @@
 - Figma <br/>
 - Adobe XD <br/>
 - SwiperJS <br/>
+- Namecheap domains
 <br/>
 
 # 💻 Web-Site : 
 
-#  🛎️ http://hotel-miranda.site   
+#   http://hotel-miranda.site   
 
                                                                                                                                         
