@@ -15,6 +15,6 @@
 
 #   Web-Site 💻: 
 
-# 🛎️  http://hotel-miranda.site  
+# 🛎️ https://enriquedonaire.github.io/Hotel-Miranda-WebPage
 
                                                                                                                                         
