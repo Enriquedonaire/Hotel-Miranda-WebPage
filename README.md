@@ -1,5 +1,5 @@
 #   🏨Hotel-Miranda-WebPage 
-##   Tecnologies🛠️: 
+##  🛠️ Tecnologies: 
 <br/>
 - ReactJS <br/>
 - JavaScript <br/>
