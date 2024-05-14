@@ -13,7 +13,7 @@
 - Namecheap domains
 <br/>
 
-#    💻Web-Site: 
+#   Web-Site 💻: 
 
 #  https://enriquedonaire.github.io/Hotel-Miranda-WebPage 🛎️
 
