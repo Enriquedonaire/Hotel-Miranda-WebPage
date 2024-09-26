@@ -1,4 +1,4 @@
-#    Hotel-Miranda-WebPage 🏨
+#   🏨 Hotel-Miranda-WebPage
 ##  🛠️ Tecnologies: 
 <br/>
 - ReactJS <br/>
