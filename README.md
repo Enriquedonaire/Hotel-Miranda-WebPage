@@ -1,5 +1,5 @@
-#  🏨 Hotel-Miranda-WebPage 
-##  🛠️ Tecnologies: 
+#  Hotel-Miranda-WebPage 🏨 
+##  Tecnologies 🛠️ : 
 <br/>
 - ReactJS <br/>
 - JavaScript <br/>
@@ -15,6 +15,6 @@
 
 #  💻Web-Site : 
 
-#   🛎️ https://enriquedonaire.github.io/Hotel-Miranda-WebPage
+#    https://enriquedonaire.github.io/Hotel-Miranda-WebPage 🛎️
 
                                                                                                                                         
